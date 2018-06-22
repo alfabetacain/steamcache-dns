@@ -9,3 +9,4 @@ $TTL	600
 ns1		IN	A	{{ uplaycache_ip }}
 
 @		IN	A	{{ uplaycache_ip }}
+*		IN	A	{{ uplaycache_ip }}
